@@ -1,0 +1,129 @@
+2016-09-28 11:25:33,666 [myid:] - INFO  [main:QuorumPeerConfig@124] - Reading configuration from: /share/hadoop/jkarimov/workDir/systems/zookeeper-3.4.9/bin/../conf/zoo.cfg
+2016-09-28 11:25:33,672 [myid:] - INFO  [main:DatadirCleanupManager@78] - autopurge.snapRetainCount set to 3
+2016-09-28 11:25:33,672 [myid:] - INFO  [main:DatadirCleanupManager@79] - autopurge.purgeInterval set to 0
+2016-09-28 11:25:33,672 [myid:] - INFO  [main:DatadirCleanupManager@101] - Purge task is not scheduled.
+2016-09-28 11:25:33,673 [myid:] - WARN  [main:QuorumPeerMain@113] - Either no config or no quorum defined in config, running  in standalone mode
+2016-09-28 11:25:33,686 [myid:] - INFO  [main:QuorumPeerConfig@124] - Reading configuration from: /share/hadoop/jkarimov/workDir/systems/zookeeper-3.4.9/bin/../conf/zoo.cfg
+2016-09-28 11:25:33,687 [myid:] - INFO  [main:ZooKeeperServerMain@96] - Starting server
+2016-09-28 11:25:33,695 [myid:] - INFO  [main:Environment@100] - Server environment:zookeeper.version=3.4.9-1757313, built on 08/23/2016 06:50 GMT
+2016-09-28 11:25:33,695 [myid:] - INFO  [main:Environment@100] - Server environment:host.name=cloud-11.dima.tu-berlin.de
+2016-09-28 11:25:33,695 [myid:] - INFO  [main:Environment@100] - Server environment:java.version=1.8.0_101
+2016-09-28 11:25:33,695 [myid:] - INFO  [main:Environment@100] - Server environment:java.vendor=Oracle Corporation
+2016-09-28 11:25:33,695 [myid:] - INFO  [main:Environment@100] - Server environment:java.home=/usr/lib/jvm/java-8-oracle/jre
+2016-09-28 11:25:33,695 [myid:] - INFO  [main:Environment@100] - Server environment:java.class.path=/share/hadoop/jkarimov/workDir/systems/zookeeper-3.4.9/bin/../build/classes:/share/hadoop/jkarimov/workDir/systems/zookeeper-3.4.9/bin/../build/lib/*.jar:/share/hadoop/jkarimov/workDir/systems/zookeeper-3.4.9/bin/../lib/slf4j-log4j12-1.6.1.jar:/share/hadoop/jkarimov/workDir/systems/zookeeper-3.4.9/bin/../lib/slf4j-api-1.6.1.jar:/share/hadoop/jkarimov/workDir/systems/zookeeper-3.4.9/bin/../lib/netty-3.10.5.Final.jar:/share/hadoop/jkarimov/workDir/systems/zookeeper-3.4.9/bin/../lib/log4j-1.2.16.jar:/share/hadoop/jkarimov/workDir/systems/zookeeper-3.4.9/bin/../lib/jline-0.9.94.jar:/share/hadoop/jkarimov/workDir/systems/zookeeper-3.4.9/bin/../zookeeper-3.4.9.jar:/share/hadoop/jkarimov/workDir/systems/zookeeper-3.4.9/bin/../src/java/lib/*.jar:/share/hadoop/jkarimov/workDir/systems/zookeeper-3.4.9/bin/../conf:
+2016-09-28 11:25:33,696 [myid:] - INFO  [main:Environment@100] - Server environment:java.library.path=/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+2016-09-28 11:25:33,696 [myid:] - INFO  [main:Environment@100] - Server environment:java.io.tmpdir=/tmp
+2016-09-28 11:25:33,696 [myid:] - INFO  [main:Environment@100] - Server environment:java.compiler=<NA>
+2016-09-28 11:25:33,697 [myid:] - INFO  [main:Environment@100] - Server environment:os.name=Linux
+2016-09-28 11:25:33,697 [myid:] - INFO  [main:Environment@100] - Server environment:os.arch=amd64
+2016-09-28 11:25:33,697 [myid:] - INFO  [main:Environment@100] - Server environment:os.version=3.13.0-65-generic
+2016-09-28 11:25:33,697 [myid:] - INFO  [main:Environment@100] - Server environment:user.name=hadoop
+2016-09-28 11:25:33,698 [myid:] - INFO  [main:Environment@100] - Server environment:user.home=/home/hadoop
+2016-09-28 11:25:33,701 [myid:] - INFO  [main:Environment@100] - Server environment:user.dir=/share/hadoop/jkarimov/workDir/StreamBenchmarks/scripts
+2016-09-28 11:25:33,713 [myid:] - INFO  [main:ZooKeeperServer@815] - tickTime set to 2000
+2016-09-28 11:25:33,713 [myid:] - INFO  [main:ZooKeeperServer@824] - minSessionTimeout set to -1
+2016-09-28 11:25:33,713 [myid:] - INFO  [main:ZooKeeperServer@833] - maxSessionTimeout set to -1
+2016-09-28 11:25:33,725 [myid:] - INFO  [main:NIOServerCnxnFactory@89] - binding to port 0.0.0.0/0.0.0.0:2181
+2016-09-28 11:25:48,783 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@192] - Accepted socket connection from /130.149.21.15:39064
+2016-09-28 11:25:48,858 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@192] - Accepted socket connection from /130.149.21.15:39066
+2016-09-28 11:25:48,861 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@928] - Client attempting to establish new session at /130.149.21.15:39064
+2016-09-28 11:25:48,862 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@928] - Client attempting to establish new session at /130.149.21.15:39066
+2016-09-28 11:25:48,862 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@192] - Accepted socket connection from /130.149.21.15:39065
+2016-09-28 11:25:48,862 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@928] - Client attempting to establish new session at /130.149.21.15:39065
+2016-09-28 11:25:48,862 [myid:] - INFO  [SyncThread:0:FileTxnLog@203] - Creating new log file: log.52c
+2016-09-28 11:25:48,877 [myid:] - INFO  [SyncThread:0:ZooKeeperServer@673] - Established session 0x157701d09f70000 with negotiated timeout 20000 for client /130.149.21.15:39064
+2016-09-28 11:25:48,877 [myid:] - INFO  [SyncThread:0:ZooKeeperServer@673] - Established session 0x157701d09f70001 with negotiated timeout 20000 for client /130.149.21.15:39066
+2016-09-28 11:25:48,878 [myid:] - INFO  [SyncThread:0:ZooKeeperServer@673] - Established session 0x157701d09f70002 with negotiated timeout 20000 for client /130.149.21.15:39065
+2016-09-28 11:25:48,903 [myid:] - INFO  [ProcessThread(sid:0 cport:2181)::PrepRequestProcessor@487] - Processed session termination for sessionid: 0x157701d09f70002
+2016-09-28 11:25:48,905 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1008] - Closed socket connection for client /130.149.21.15:39065 which had sessionid 0x157701d09f70002
+2016-09-28 11:25:48,908 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@192] - Accepted socket connection from /130.149.21.15:39068
+2016-09-28 11:25:48,909 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@928] - Client attempting to establish new session at /130.149.21.15:39068
+2016-09-28 11:25:48,910 [myid:] - INFO  [SyncThread:0:ZooKeeperServer@673] - Established session 0x157701d09f70003 with negotiated timeout 20000 for client /130.149.21.15:39068
+2016-09-28 11:25:48,912 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@192] - Accepted socket connection from /130.149.21.15:39069
+2016-09-28 11:25:48,912 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@928] - Client attempting to establish new session at /130.149.21.15:39069
+2016-09-28 11:25:48,913 [myid:] - INFO  [SyncThread:0:ZooKeeperServer@673] - Established session 0x157701d09f70004 with negotiated timeout 20000 for client /130.149.21.15:39069
+2016-09-28 11:25:49,744 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@192] - Accepted socket connection from /130.149.21.15:39070
+2016-09-28 11:25:49,745 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@928] - Client attempting to establish new session at /130.149.21.15:39070
+2016-09-28 11:25:49,746 [myid:] - INFO  [SyncThread:0:ZooKeeperServer@673] - Established session 0x157701d09f70005 with negotiated timeout 20000 for client /130.149.21.15:39070
+2016-09-28 11:25:49,748 [myid:] - INFO  [ProcessThread(sid:0 cport:2181)::PrepRequestProcessor@487] - Processed session termination for sessionid: 0x157701d09f70005
+2016-09-28 11:25:49,749 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1008] - Closed socket connection for client /130.149.21.15:39070 which had sessionid 0x157701d09f70005
+2016-09-28 11:25:54,000 [myid:] - INFO  [SessionTracker:ZooKeeperServer@358] - Expiring session 0x1577016e36d0004, timeout of 20000ms exceeded
+2016-09-28 11:25:54,001 [myid:] - INFO  [SessionTracker:ZooKeeperServer@358] - Expiring session 0x1577016e36d0006, timeout of 20000ms exceeded
+2016-09-28 11:25:54,002 [myid:] - INFO  [SessionTracker:ZooKeeperServer@358] - Expiring session 0x1577016e36d000a, timeout of 20000ms exceeded
+2016-09-28 11:25:54,002 [myid:] - INFO  [SessionTracker:ZooKeeperServer@358] - Expiring session 0x1577016e36d0008, timeout of 20000ms exceeded
+2016-09-28 11:25:54,002 [myid:] - INFO  [SessionTracker:ZooKeeperServer@358] - Expiring session 0x1577016e36d0001, timeout of 20000ms exceeded
+2016-09-28 11:25:54,002 [myid:] - INFO  [SessionTracker:ZooKeeperServer@358] - Expiring session 0x1577016e36d000c, timeout of 20000ms exceeded
+2016-09-28 11:25:54,002 [myid:] - INFO  [SessionTracker:ZooKeeperServer@358] - Expiring session 0x1577016e36d0003, timeout of 20000ms exceeded
+2016-09-28 11:25:54,002 [myid:] - INFO  [SessionTracker:ZooKeeperServer@358] - Expiring session 0x1577016e36d0000, timeout of 20000ms exceeded
+2016-09-28 11:25:54,003 [myid:] - INFO  [ProcessThread(sid:0 cport:2181)::PrepRequestProcessor@487] - Processed session termination for sessionid: 0x1577016e36d0004
+2016-09-28 11:25:54,003 [myid:] - INFO  [ProcessThread(sid:0 cport:2181)::PrepRequestProcessor@487] - Processed session termination for sessionid: 0x1577016e36d0006
+2016-09-28 11:25:54,003 [myid:] - INFO  [ProcessThread(sid:0 cport:2181)::PrepRequestProcessor@487] - Processed session termination for sessionid: 0x1577016e36d000a
+2016-09-28 11:25:54,003 [myid:] - INFO  [ProcessThread(sid:0 cport:2181)::PrepRequestProcessor@487] - Processed session termination for sessionid: 0x1577016e36d0008
+2016-09-28 11:25:54,004 [myid:] - INFO  [ProcessThread(sid:0 cport:2181)::PrepRequestProcessor@487] - Processed session termination for sessionid: 0x1577016e36d0001
+2016-09-28 11:25:54,004 [myid:] - INFO  [ProcessThread(sid:0 cport:2181)::PrepRequestProcessor@487] - Processed session termination for sessionid: 0x1577016e36d000c
+2016-09-28 11:25:54,004 [myid:] - INFO  [ProcessThread(sid:0 cport:2181)::PrepRequestProcessor@487] - Processed session termination for sessionid: 0x1577016e36d0003
+2016-09-28 11:25:54,004 [myid:] - INFO  [ProcessThread(sid:0 cport:2181)::PrepRequestProcessor@487] - Processed session termination for sessionid: 0x1577016e36d0000
+2016-09-28 11:25:59,477 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@192] - Accepted socket connection from /130.149.21.16:49860
+2016-09-28 11:25:59,484 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@928] - Client attempting to establish new session at /130.149.21.16:49860
+2016-09-28 11:25:59,486 [myid:] - INFO  [SyncThread:0:ZooKeeperServer@673] - Established session 0x157701d09f70006 with negotiated timeout 20000 for client /130.149.21.16:49860
+2016-09-28 11:25:59,521 [myid:] - INFO  [ProcessThread(sid:0 cport:2181)::PrepRequestProcessor@487] - Processed session termination for sessionid: 0x157701d09f70006
+2016-09-28 11:25:59,523 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1008] - Closed socket connection for client /130.149.21.16:49860 which had sessionid 0x157701d09f70006
+2016-09-28 11:25:59,534 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@192] - Accepted socket connection from /130.149.21.16:49861
+2016-09-28 11:25:59,534 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@928] - Client attempting to establish new session at /130.149.21.16:49861
+2016-09-28 11:25:59,536 [myid:] - INFO  [SyncThread:0:ZooKeeperServer@673] - Established session 0x157701d09f70007 with negotiated timeout 20000 for client /130.149.21.16:49861
+2016-09-28 11:26:05,656 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@192] - Accepted socket connection from /130.149.21.17:33225
+2016-09-28 11:26:05,660 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@928] - Client attempting to establish new session at /130.149.21.17:33225
+2016-09-28 11:26:05,662 [myid:] - INFO  [SyncThread:0:ZooKeeperServer@673] - Established session 0x157701d09f70008 with negotiated timeout 20000 for client /130.149.21.17:33225
+2016-09-28 11:26:05,702 [myid:] - INFO  [ProcessThread(sid:0 cport:2181)::PrepRequestProcessor@487] - Processed session termination for sessionid: 0x157701d09f70008
+2016-09-28 11:26:05,703 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1008] - Closed socket connection for client /130.149.21.17:33225 which had sessionid 0x157701d09f70008
+2016-09-28 11:26:05,711 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@192] - Accepted socket connection from /130.149.21.17:33226
+2016-09-28 11:26:05,711 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@928] - Client attempting to establish new session at /130.149.21.17:33226
+2016-09-28 11:26:05,713 [myid:] - INFO  [SyncThread:0:ZooKeeperServer@673] - Established session 0x157701d09f70009 with negotiated timeout 20000 for client /130.149.21.17:33226
+2016-09-28 11:26:10,183 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@192] - Accepted socket connection from /130.149.21.18:57867
+2016-09-28 11:26:10,186 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@928] - Client attempting to establish new session at /130.149.21.18:57867
+2016-09-28 11:26:10,189 [myid:] - INFO  [SyncThread:0:ZooKeeperServer@673] - Established session 0x157701d09f7000a with negotiated timeout 20000 for client /130.149.21.18:57867
+2016-09-28 11:26:10,221 [myid:] - INFO  [ProcessThread(sid:0 cport:2181)::PrepRequestProcessor@487] - Processed session termination for sessionid: 0x157701d09f7000a
+2016-09-28 11:26:10,224 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1008] - Closed socket connection for client /130.149.21.18:57867 which had sessionid 0x157701d09f7000a
+2016-09-28 11:26:10,231 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@192] - Accepted socket connection from /130.149.21.18:57868
+2016-09-28 11:26:10,232 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@928] - Client attempting to establish new session at /130.149.21.18:57868
+2016-09-28 11:26:10,234 [myid:] - INFO  [SyncThread:0:ZooKeeperServer@673] - Established session 0x157701d09f7000b with negotiated timeout 20000 for client /130.149.21.18:57868
+2016-09-28 11:26:15,494 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@192] - Accepted socket connection from /130.149.21.19:35165
+2016-09-28 11:26:15,498 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@928] - Client attempting to establish new session at /130.149.21.19:35165
+2016-09-28 11:26:15,500 [myid:] - INFO  [SyncThread:0:ZooKeeperServer@673] - Established session 0x157701d09f7000c with negotiated timeout 20000 for client /130.149.21.19:35165
+2016-09-28 11:26:15,540 [myid:] - INFO  [ProcessThread(sid:0 cport:2181)::PrepRequestProcessor@487] - Processed session termination for sessionid: 0x157701d09f7000c
+2016-09-28 11:26:15,542 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1008] - Closed socket connection for client /130.149.21.19:35165 which had sessionid 0x157701d09f7000c
+2016-09-28 11:26:15,550 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@192] - Accepted socket connection from /130.149.21.19:35166
+2016-09-28 11:26:15,551 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@928] - Client attempting to establish new session at /130.149.21.19:35166
+2016-09-28 11:26:15,553 [myid:] - INFO  [SyncThread:0:ZooKeeperServer@673] - Established session 0x157701d09f7000d with negotiated timeout 20000 for client /130.149.21.19:35166
+2016-09-28 20:47:32,561 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@192] - Accepted socket connection from /130.149.21.16:49968
+2016-09-28 20:47:32,565 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@928] - Client attempting to establish new session at /130.149.21.16:49968
+2016-09-28 20:47:32,567 [myid:] - INFO  [SyncThread:0:ZooKeeperServer@673] - Established session 0x157701d09f7000e with negotiated timeout 20000 for client /130.149.21.16:49968
+2016-09-28 20:47:32,605 [myid:] - INFO  [ProcessThread(sid:0 cport:2181)::PrepRequestProcessor@487] - Processed session termination for sessionid: 0x157701d09f7000e
+2016-09-28 20:47:32,607 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1008] - Closed socket connection for client /130.149.21.16:49968 which had sessionid 0x157701d09f7000e
+2016-09-28 20:47:32,620 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@192] - Accepted socket connection from /130.149.21.16:49969
+2016-09-28 20:47:32,620 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@928] - Client attempting to establish new session at /130.149.21.16:49969
+2016-09-28 20:47:32,622 [myid:] - INFO  [SyncThread:0:ZooKeeperServer@673] - Established session 0x157701d09f7000f with negotiated timeout 20000 for client /130.149.21.16:49969
+2016-09-28 20:47:38,361 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@192] - Accepted socket connection from /130.149.21.17:33323
+2016-09-28 20:47:38,365 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@928] - Client attempting to establish new session at /130.149.21.17:33323
+2016-09-28 20:47:38,367 [myid:] - INFO  [SyncThread:0:ZooKeeperServer@673] - Established session 0x157701d09f70010 with negotiated timeout 20000 for client /130.149.21.17:33323
+2016-09-28 20:47:38,401 [myid:] - INFO  [ProcessThread(sid:0 cport:2181)::PrepRequestProcessor@487] - Processed session termination for sessionid: 0x157701d09f70010
+2016-09-28 20:47:38,403 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1008] - Closed socket connection for client /130.149.21.17:33323 which had sessionid 0x157701d09f70010
+2016-09-28 20:47:38,411 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@192] - Accepted socket connection from /130.149.21.17:33324
+2016-09-28 20:47:38,412 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@928] - Client attempting to establish new session at /130.149.21.17:33324
+2016-09-28 20:47:38,414 [myid:] - INFO  [SyncThread:0:ZooKeeperServer@673] - Established session 0x157701d09f70011 with negotiated timeout 20000 for client /130.149.21.17:33324
+2016-09-28 20:47:43,517 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@192] - Accepted socket connection from /130.149.21.18:57970
+2016-09-28 20:47:43,521 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@928] - Client attempting to establish new session at /130.149.21.18:57970
+2016-09-28 20:47:43,523 [myid:] - INFO  [SyncThread:0:ZooKeeperServer@673] - Established session 0x157701d09f70012 with negotiated timeout 20000 for client /130.149.21.18:57970
+2016-09-28 20:47:43,558 [myid:] - INFO  [ProcessThread(sid:0 cport:2181)::PrepRequestProcessor@487] - Processed session termination for sessionid: 0x157701d09f70012
+2016-09-28 20:47:43,600 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1008] - Closed socket connection for client /130.149.21.18:57970 which had sessionid 0x157701d09f70012
+2016-09-28 20:47:43,609 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@192] - Accepted socket connection from /130.149.21.18:57971
+2016-09-28 20:47:43,609 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@928] - Client attempting to establish new session at /130.149.21.18:57971
+2016-09-28 20:47:43,611 [myid:] - INFO  [SyncThread:0:ZooKeeperServer@673] - Established session 0x157701d09f70013 with negotiated timeout 20000 for client /130.149.21.18:57971
+2016-09-28 20:47:48,571 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@192] - Accepted socket connection from /130.149.21.19:35268
+2016-09-28 20:47:48,575 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@928] - Client attempting to establish new session at /130.149.21.19:35268
+2016-09-28 20:47:48,586 [myid:] - INFO  [SyncThread:0:ZooKeeperServer@673] - Established session 0x157701d09f70014 with negotiated timeout 20000 for client /130.149.21.19:35268
+2016-09-28 20:47:48,622 [myid:] - INFO  [ProcessThread(sid:0 cport:2181)::PrepRequestProcessor@487] - Processed session termination for sessionid: 0x157701d09f70014
+2016-09-28 20:47:48,627 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1008] - Closed socket connection for client /130.149.21.19:35268 which had sessionid 0x157701d09f70014
+2016-09-28 20:47:48,633 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@192] - Accepted socket connection from /130.149.21.19:35269
+2016-09-28 20:47:48,634 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@928] - Client attempting to establish new session at /130.149.21.19:35269
+2016-09-28 20:47:48,636 [myid:] - INFO  [SyncThread:0:ZooKeeperServer@673] - Established session 0x157701d09f70015 with negotiated timeout 20000 for client /130.149.21.19:35269

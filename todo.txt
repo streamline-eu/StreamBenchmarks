@@ -1,0 +1,10 @@
+TODO
+1. change yaml to single library
+2. change class names
+3. maybe use netty over simple sockets?
+4. change sysouts to throw exception to throw error
+5. add logging
+6. search if it is the way computing window on storm
+7. make reading of config  file same in all projects
+8.make sure windows in kafkastreams are correctly used and execution graph is same with another systems.
+9. custom serde for kafka for tuples
